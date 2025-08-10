@@ -1,16 +1,43 @@
-## Hi there 👋
+💻 Turning Ideas into Code
 
-<!--
-**sabihaz/sabihaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I’m Sabiha, blending data science, backend engineering, and machine learning to craft impactful software solutions.
 
-Here are some ideas to get you started:
+I’m a Computer Science graduate passionate about building data-driven solutions, developing scalable backend systems, and applying machine learning to solve real-world problems.  
+I love exploring new technologies, working on impactful projects, and continuously improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 About Me
+- 🎓 M.Sc. in Computer Science
+- 💻 Skilled in **Python, Java, SQL, and Spring Boot**
+- 📊 Experienced with **Pandas, NumPy, TensorFlow, PyTorch**
+- ☁️ Familiar with **AWS & GCP cloud services**
+- 🌱 Currently learning **Deep Learning & Microservices**
+- 🤝 Open to collaborating on **Data Science & Java projects**
+- 📫 Reach me at: sabiha1603z@gmail.com  
+- 🔗 LinkedIn: www.linkedin.com/in/noorussabiha | GitHub: https://github.com/sabihaz | Portfolio: [Your Portfolio URL]
+
+---
+
+🛠️ Tech Stack
+**Languages:** Python, Java, C++, SQL  
+**Frameworks & Libraries:** Spring Boot, Hibernate, Flask, FastAPI, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Tools & Platforms:** Git, Docker, Postman, AWS (S3, EC2), GCP  
+**Others:** REST APIs, Agile, Data Visualization (Matplotlib, Seaborn, Tableau)
+
+---
+
+📌 Pinned Projects
+
+
+---
+
+📊 GitHub Stats
+![Sabiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabihaz&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabihaz&layout=compact&theme=tokyonight)
+
+---
+
+💡 "Every great developer you know started out just where you are now." — Unknown
