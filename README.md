@@ -33,11 +33,4 @@ I love exploring new technologies, working on impactful projects, and continuous
 
 ---
 
-📊 GitHub Stats
-![Sabiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabihaz&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabihaz&layout=compact&theme=tokyonight)
-
----
-
 💡 "Every great developer you know started out just where you are now." — Unknown
